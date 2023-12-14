@@ -1,0 +1,60 @@
+h1{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    background-color: #7c222c;
+}
+
+body{
+    background-color: #824646;
+}
+
+a {
+    color: #ffffff;
+    text-align: center ;
+    padding: 14px 25px;
+   
+    
+  }
+  
+  
+   a:hover {
+    background-color: aquamarine;
+    color: blue;
+  }
+  
+  
+
+   a:active{
+    background-color: bisque;
+  }
+
+  ul{
+    background-color: #7c222c;
+  }
+
+  .footer{
+    padding: 20px;
+    text-align: center;
+    background: #7c222c;
+    margin-top: 20px;
+}
+
+.footer a{
+    text-decoration: none;
+    color: #000000;
+    
+
+}
+
+.footer :hover{
+    background-color: aquamarine;
+    color: blue;
+    font-size: large;
+}
+
+.footer :active{
+    background-color: bisque;
+}
